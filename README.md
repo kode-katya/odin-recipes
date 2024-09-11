@@ -8,3 +8,5 @@ This is my first ever project for the Odin Project. The purpose of this project 
 -being able to link other websites / pages from the same website
 -including images & being able to resize them
 -creating organize and unorganized lists
+
+I got bored and didn't finish it completely.
